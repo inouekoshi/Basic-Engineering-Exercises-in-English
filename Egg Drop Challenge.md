@@ -20,4 +20,7 @@ I was trying to make an object that would protect an egg using a honeycomb struc
 This object has large wings to take advantage of aerodynamic drag. This is called the **roof**. It also has a **basket** to hold the eggs suspended from the roof and **legs** to prevent direct damage to the eggs when they land.
 ### About the Roof
 ### About the basket
+- 
 ### About the legs
+- I created the egg in the hope that landing on four legs, like Apollo 11, would absorb the shock and protect the egg.
+- It also plays a role in hanging baskets (to save drawing paper).
