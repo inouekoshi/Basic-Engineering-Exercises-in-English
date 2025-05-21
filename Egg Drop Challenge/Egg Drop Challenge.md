@@ -24,3 +24,7 @@ This object has large wings to take advantage of aerodynamic drag. This is calle
 ### About the legs
 - I created the egg in the hope that landing on four legs, like Apollo 11, would absorb the shock and protect the egg.
 - It also plays a role in hanging baskets (to save drawing paper).
+
+
+
+おおおおおお
