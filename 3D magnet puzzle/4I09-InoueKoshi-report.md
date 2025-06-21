@@ -1,7 +1,8 @@
 # Technical Report: 3D magnet puzzle
 
 ## 4I09 InoueKoshi
-## 2025/5/26 , 6/2
+## 2025/5/19
+
 
 ## History
 The history of magnets is a story of human curiosity and technological innovation, from ancient discoveries to modern science.
